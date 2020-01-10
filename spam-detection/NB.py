@@ -1,3 +1,5 @@
+# using naive bayes algorithm and compare with Adaboost Classifier
+
 from sklearn.naive_bayes import MultinomialNB
 import pandas as pd
 import numpy as np
